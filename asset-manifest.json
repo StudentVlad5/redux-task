@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/taildog/static/css/main.f855e6bc.css",
-    "main.js": "/taildog/static/js/main.2cf0a9a5.js",
-    "index.html": "/taildog/index.html",
-    "main.f855e6bc.css.map": "/taildog/static/css/main.f855e6bc.css.map",
-    "main.2cf0a9a5.js.map": "/taildog/static/js/main.2cf0a9a5.js.map"
+    "main.css": "/redux-task/static/css/main.f855e6bc.css",
+    "main.js": "/redux-task/static/js/main.2cf0a9a5.js",
+    "index.html": "/redux-task/index.html",
+    "main.f855e6bc.css.map": "/redux-task/static/css/main.f855e6bc.css.map",
+    "main.2cf0a9a5.js.map": "/redux-task/static/js/main.2cf0a9a5.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
