@@ -1,1 +1,1 @@
-about 
+react redux 
